@@ -2,7 +2,7 @@
  *
  * Created by: Brendan ORourke
  * Created on: dec 2025
- * This program shows while loops
+ * This program shows while loops again
 */
 
 // variables
