@@ -14,7 +14,7 @@ let loopCounterY = 0
 basic.clearScreen()
 basic.showIcon(IconNames.Happy)
 
-// when "A" is pressed, the pixels move cw
+// when "A" is pressed, the pixels move clock wise
 input.onButtonPressed(Button.A, function () {
     // setup
     basic.clearScreen()
@@ -45,7 +45,7 @@ input.onButtonPressed(Button.A, function () {
     basic.showIcon(IconNames.Happy)
 })
 
-// when "B" is pressed, the pixels move ccw
+// when "B" is pressed, the pixels move counter clock wise
 input.onButtonPressed(Button.B, function () {
     // setup
     basic.clearScreen()
